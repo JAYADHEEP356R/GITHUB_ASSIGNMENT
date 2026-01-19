@@ -8,3 +8,5 @@ will be staging the file first and then ,local repository -> repote repository, 
 
 new chages made in branch2  
 this is the changes from the master branch 
+
+this is the new change for cherry pick
