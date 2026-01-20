@@ -29,7 +29,6 @@ This repository is created to practice and understand core Git concepts through 
 ## Repository Structure
 .
 ├── README.md
-├── .gitignore
 └── src/
     └── (source files)
 
